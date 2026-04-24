@@ -1,0 +1,1 @@
+Thư mục này dùng để chứa các hình ảnh và file trực tiếp cho trang web (như hình ảnh dự án, file CV). Bạn hãy kéo thả ảnh từ máy tính của bạn vào trong thư mục này nhé!
